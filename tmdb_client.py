@@ -83,4 +83,3 @@ def get_airing_today():
     response.raise_for_status()
     response = response.json()
     return response['results']
-
