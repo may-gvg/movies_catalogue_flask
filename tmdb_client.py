@@ -1,4 +1,3 @@
-
 import requests
 
 API_TOKEN = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxZTRlN2Q4MzFkNWI5MTlhYjhkODA2MWY5YjcyOTllNiIsInN1YiI6IjYwYzg1NjU2NjZhZTRkMDA1OWM0Y2YyYyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.dp1D-mYfe1nXvt0-bCw2fupl81BXy-LcyEKh3t5EZMg"
